@@ -1,4 +1,4 @@
-#  My Favorite Series: The Queen's Gambit 
+# My Favorite Series: The Queen's Gambit 
 
 ## Overview
 
@@ -27,17 +27,20 @@ The series is highly compelling for several reasons:
 
 [Read more about the series on IMDb](https://www.imdb.com/title/tt10048342/)
 
+---
 
+##  Bonus: Favorite Music & Movies
 
+### Popular Music Titles
+* **"Die With A Smile"** - Lady Gaga & Bruno Mars
+* **"BIRDS OF A FEATHER"** - Billie Eilish
+* **"Espresso"** - Sabrina Carpenter
+* **"Taste"** - Sabrina Carpenter
+* **"Beautiful Things"** - Benson Boone
 
-
-Element,Markdown Code Example,Purpose in Text
-Heading 1,# Title,The main title of the document.
-Heading 2,## Subtitle,Section headers.
-Bolding,**Text**,To emphasize important names or terms.
-Unordered List,* Item,Used for the Overview list.
-Blockquote,> Note...,Used to highlight an important note.
-Horizontal Rule,---,To visually separate sections.
-Table,`,C1
-Ordered List,1. Item,Used for the Reasons I Recommend It.
-Link,[Text](URL),To link to external resources like IMDb.
+### Highest-Grossing Movies
+1.  *Avatar* (2009)
+2.  *Avengers: Endgame* (2019)
+3.  *Avatar: The Way of Water* (2022)
+4.  *Titanic* (1997)
+5.  *Star Wars: Episode VII - The Force Awakens* (2015)
